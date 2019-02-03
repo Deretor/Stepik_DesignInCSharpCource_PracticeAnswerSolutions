@@ -1,0 +1,2 @@
+D:\Уроки\StepikC#\Stepic_course-DesigningInC#_practice\3.0 Generics.BinaryTrees\obj\Debug\Generics.BinaryTrees.csprojAssemblyReference.cache
+D:\Уроки\StepikC#\Stepic_course-DesigningInC#_practice\3.0 Generics.BinaryTrees\obj\Debug\Generics.BinaryTrees.csproj.CoreCompileInputs.cache
